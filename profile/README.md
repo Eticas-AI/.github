@@ -1,9 +1,4 @@
 <div align="center">
-
-<img src="https://images.squarespace-cdn.com/content/v1/691de5e98d7ff050a763a99c/67be4492-ca75-44b2-9dc8-c2e3b47c3138/Logo+Eticas.ai_.png?format=1500w" alt="Eticas.ai" width="280">
-
-# Eticas.ai
-
 **Evidence-based AI auditing, grounded in real-world testing.**
 
 [![What we do](https://img.shields.io/badge/What_we_do-1e2327?style=flat-square)](https://www.eticas.ai/what-we-do)
