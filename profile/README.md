@@ -29,6 +29,12 @@ We evaluate:
 
 ---
 
+<div align="center">
+
 [![What we do](https://img.shields.io/badge/What_we_do-1e2327?style=flat-square)](https://www.eticas.ai/what-we-do)
 [![Our work](https://img.shields.io/badge/Our_work-1e2327?style=flat-square)](https://www.eticas.ai/our-work)
 [![About us](https://img.shields.io/badge/About_us-1e2327?style=flat-square)](https://www.eticas.ai/about-us)
+
+</div>
+
+
