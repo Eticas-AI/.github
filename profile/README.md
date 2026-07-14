@@ -1,4 +1,5 @@
 <div align="center">
+  
 **Evidence-based AI auditing, grounded in real-world testing.**
 
 [![What we do](https://img.shields.io/badge/What_we_do-1e2327?style=flat-square)](https://www.eticas.ai/what-we-do)
