@@ -20,7 +20,7 @@ We evaluate:
 
 ## Open source
 
-**Eticas AI Risk Taxonomy** *(repository launching soon)* — will track the ongoing evolution of the open framework behind our methodology, introduced in [*The Eticas AI Risk Taxonomy: Open Infrastructure for Operationalizing AI Audits*](https://arxiv.org/abs/2607.02201).
+[**Eticas AI Risk Taxonomy** repository](https://github.com/Eticas-AI/ai-risk-taxonomy-public) tracks the ongoing evolution of the open framework behind our methodology, introduced in [*The Eticas AI Risk Taxonomy: Open Infrastructure for Operationalizing AI Audits*](https://arxiv.org/abs/2607.02201).
 
 ## Learn more
 
